@@ -1,4 +1,4 @@
-# 📻 La Nación Radio – Mobile App
+# 📻 Case Study on La Nación Radio – Mobile App
 
 A Flutter mobile application developed for La Nación Radio, the radio and podcast branch of La Nación, Venezuela’s largest news company.
 The project included the design and implementation of a new mobile experience for news, podcasts, radio stations, reels, company directories, and integrated advertising.
