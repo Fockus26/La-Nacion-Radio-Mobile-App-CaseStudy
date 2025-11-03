@@ -28,6 +28,30 @@ The interface highlights the brand identity with a frosted-glass style AppBar, c
 
 ---
 
+## 📸 Showcase
+
+### 📱 Splash Screen
+
+![Splash](./assets/gifs/Splash.gif)
+
+### 🏠 Home
+
+![Home](./assets/gifs/Home.gif)
+
+### 📻 Radio
+
+![Radio](./assets/gifs/Radio.gif)
+
+### 📰 News
+
+![News](./assets/gifs/News.gif)
+
+### 🏦 Companies
+
+![Companies](./assets/gifs/Companies.gif)
+
+---
+
 ## 🛠 Tech Stack
 
 - **Framework:** Flutter (Dart)
@@ -39,6 +63,7 @@ The interface highlights the brand identity with a frosted-glass style AppBar, c
 ---
 
 ## 📂 Project Structure
+
 ```text
 assets/
  ├── audio/
@@ -72,12 +97,6 @@ lib/
      ├── models/...
      └── views/...
 ```
-
----
-
-## 📸 Showcase
-
-_(Screenshots, GIFs, or demo videos can be added here)_
 
 ---
 
